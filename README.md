@@ -1,2 +1,4 @@
-#Maths With Gestures
+# Math with Gestures : Using Google Generative AI
+
+
 
